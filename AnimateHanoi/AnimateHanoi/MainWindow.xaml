@@ -1,0 +1,29 @@
+﻿<Window x:Class="AnimateHanoi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AnimateHanoi"
+        mc:Ignorable="d"
+        Title="Animate Hanoi" Height="350" Width="525" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="btnStart" Height="25" VerticalAlignment="Top" Click="btnStart_Click" RenderTransformOrigin="2.571,4.88" Canvas.Left="36" Canvas.Top="252" Margin="10,268,369,0">Start
+        </Button>
+
+        <ComboBox x:Name="comboBoxNumDiscs" Height="25" VerticalAlignment="Top" SelectedIndex="1" Canvas.Left="188" Canvas.Top="252" Margin="216,269,255,0">
+            <ListBoxItem Content="2"/>
+            <ListBoxItem Content="3"/>
+            <ListBoxItem Content="4"/>
+            <ListBoxItem Content="5"/>
+            <ListBoxItem Content="6"/>
+            <ListBoxItem Content="7"/>
+            <ListBoxItem Content="8"/>
+        </ComboBox>
+        <Label x:Name="labelDisks" Content="Disks:" HorizontalAlignment="Left" Margin="173,268,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.395,-0.385"/>
+        <Canvas x:Name="drawingCanvas" HorizontalAlignment="Left" Height="142" Margin="68,46,0,0" VerticalAlignment="Top" Width="429"/>
+        <ListBox x:Name="labelOutput" HorizontalAlignment="Left" Height="49" Margin="284,245,0,0" VerticalAlignment="Top" Width="213"/>
+        <Label x:Name="labelMoves" Content="" HorizontalAlignment="Left" Margin="10,237,0,0" VerticalAlignment="Top" Width="140"/>
+    </Grid>
+
+
+</Window>

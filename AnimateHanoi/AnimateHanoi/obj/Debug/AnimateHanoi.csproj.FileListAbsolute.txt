@@ -1,0 +1,15 @@
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\bin\Debug\AnimateHanoi.exe.config
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\bin\Debug\AnimateHanoi.exe
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\bin\Debug\AnimateHanoi.pdb
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\AnimateHanoi.csprojResolveAssemblyReference.cache
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\MainWindow.g.cs
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\App.g.cs
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\AnimateHanoi_MarkupCompile.cache
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\AnimateHanoi_MarkupCompile.lref
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\MainWindow.baml
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\AnimateHanoi.g.resources
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\AnimateHanoi.Properties.Resources.resources
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\AnimateHanoi.csproj.GenerateResource.Cache
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\AnimateHanoi.exe
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\AnimateHanoi.pdb
+C:\Users\ramir\OneDrive\Documents\Visual Studio 2015\Projects\AnimateHanoi\AnimateHanoi\obj\Debug\AnimateHanoi.csproj.CoreCompileInputs.cache
